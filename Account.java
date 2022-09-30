@@ -1,5 +1,3 @@
-package com.Jonathan;
-
 import java.io.*;
 
 abstract public class Account
