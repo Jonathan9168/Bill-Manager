@@ -1,5 +1,3 @@
-package com.Jonathan;
-
 /*Author: Jonathan A
 * Date:30/01/2021
 * Description: OOP Bill Manager. Allows user to create accounts and track their spending.*/
