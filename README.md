@@ -1,4 +1,5 @@
 # Bill-Manager
-Allows creation of user accounts to track spending
 
-Run Main.java to start the program
+Bill manager for multiple users using file IO
+
+Run _"Main.java"_ to start the program
